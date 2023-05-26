@@ -1,0 +1,22 @@
+/* *{
+    margin-left: 2%;
+    margin-right: 3%;
+} */
+
+.btn-primary{
+    height: 90px;
+    width: 100%;
+    background-color: rgb(60,208,213);
+    color: black;
+    border-radius: 30px;
+}
+.btn-secondary{
+    height: 90px;
+    width: 100%;
+    background-color: rgb(60,208,213);
+    color: black;
+    border-radius: 30px;   
+}
+.btn-primary:hover{
+    background-color: #5C4033;
+}
